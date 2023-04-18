@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#sec7{
+    padding: 20px ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+#sec7 h2{
+    color: #054A85;
+}
+#sec7 p{
+    padding-bottom: 20px;
+}
+#s7btnword{
+    padding-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#sec7 .s7btn{
+    color: #0880E8;
+    border-radius: 18px;
+    margin-left: 20px;
+    padding: 5px 15px;
+    transition: all 0.3s ease-in-out;
+}
+#sec7 .s7btn:hover{
+    color: #fff;
+    background-color: #0880E8;
+}
+#sec7 #s7btn1{
+    color: #fff;
+    background-color: #0880E8;
+}

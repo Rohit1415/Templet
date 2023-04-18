@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#sec11{
+    padding: 50px 0 10px 0;
+    text-align: center;
+}
+#sec11 h2{
+    color: #054A85;
+}
+#sec11 p{
+    color: grey;
+}

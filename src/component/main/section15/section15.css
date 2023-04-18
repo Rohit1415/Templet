@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primy-color: #0880e8;
+}
+.sec15 {
+    margin-top: 50px;
+  background-color: var(--primy-color);
+}
+.s15out{
+    padding: 40px 0;
+}
+.s15d1{
+    color: #fff;
+}
+.s15d2{
+    padding-top: 40px;
+}
+.cubscribe{
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid white;
+    display: flex;
+}
+.cubscribe input{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 4px 10px;
+    width: 600px;
+}
+.cubscribe div{
+    color: #fff;
+    position: absolute;
+    right: 0;
+    border-radius: 20px;
+    padding: 4px 25px;
+    background-color: #F6B024;
+    border: 1px solid white;
+    transition: all 0.3s;
+}
+.cubscribe div:hover{
+    background-color: var(--primy-color);
+}

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#sec3{
+    background-image: url(../../../assets/images/about-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#s3out{
+    padding: 100px 0;
+    background-image: linear-gradient(rgba(255,255,255,0.4) , rgba(255,255,255,0.4));
+}
+#s3heading{
+    padding-bottom: 20px;
+    text-align: center;
+    color: #054A85;
+}
+#s3des{
+    padding-bottom: 20px;
+    color: #444444;
+    text-align: center
+}
+#s3btn1{
+    background: #fff;
+    padding: 6px 30px;
+    border: 2px solid #054A85;
+    border-radius: 5px;
+    color: #054A85;
+    transition: all 0.3s ease-in-out;
+}
+#s3btn1:hover{
+    background-color: #054A85;
+    color: #fff;
+}

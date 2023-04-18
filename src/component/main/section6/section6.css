@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#sec6{
+    /* padding-top: 20px; */
+    padding-bottom: 40px;
+    height: 220px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#sec6out{
+    padding-bottom: 50px;
+}
+
+#s6d1{
+    height: 90px;
+}
+#s6d2{
+    height: 90px;
+}
+#s6d2 h5{
+    color: #05579E;
+}
+
+#s6d1 img{
+    height: 100%;
+    width: 100%;
+}
+#s6d1img1{
+    height: 40px;
+    width: 40px;
+    border: 1px solid red;
+}

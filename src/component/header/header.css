@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{ 
+    z-index: 99;
+    width: 100%;
+    position: fixed;  
+    top: 0;
+    background-color: #0A5FA4;
+}
+#header_head{
+    color: #fff;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+.anker{
+    color: #ffffffd3;
+}
+.anker:hover{
+    color: #fff;
+}
+.drop{
+    color: #0A5FA4;
+}
+#ankeee{
+    color: #ffffffd3;
+}
+#ankeee:hover{
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}

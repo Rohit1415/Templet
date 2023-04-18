@@ -1,0 +1,86 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+:root{
+    --primy-color : #0880E8;
+}
+.sec14{
+    /* padding-top: 50px; */
+    /* padding-bottom: 100px; */
+    height: 400px;
+    background-image: url(./about-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon1{
+    display: flex;
+    /* border: 1px solid red; */
+}
+.icon1 h3{
+    color: #054176;
+}
+.setetxt{
+    padding-left: 60px;
+}
+.s14i1{
+    margin-right: 10px;
+    color: #fff;
+    background-color: var(--primy-color);
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 50px;
+}
+
+.heading{
+    padding: 20px 0;
+    text-align: center;
+}
+.yname{
+    margin-bottom: 10px;
+    width: 50%;
+}
+.yname input{
+    padding: 10px;
+    width: 100%;
+}
+.yemail{
+    width: 50%;
+}
+.yemail input{
+    padding: 10px;
+    width: 100%;
+}
+.sub{
+    margin-bottom: 10px;
+    width: 100%;
+}
+.sub input{
+    padding: 10px;
+    width: 100%;
+}
+.textare{
+    width: 100%;
+}
+.textare textarea{
+    width: 100%;
+    resize: none;
+}
+.s14btn1{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center
+}
+.s14btn1 p{
+    border: 2px solid var(--primy-color);
+    color: var(--primy-color);
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 8px 20px;
+    transition: all 0.3s ease-in-out;
+}
+.s14btn1 p:hover{
+    color: white;
+    background-color: var(--primy-color);
+}
+.div_for_sapce{
+    padding: 50px 0;
+}

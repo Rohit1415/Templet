@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sec16 {
+    color: #fff;
+    padding: 20px 0;
+  background-color: #05579e;
+}
+.s16out {
+  text-align: center;
+}
+.footertiti {
+    
+  color: #dbab3a;
+}

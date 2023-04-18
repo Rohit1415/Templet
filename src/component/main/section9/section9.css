@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#sec9{
+    text-align: center;
+    background-color: #F1F8FF;
+}
+
+#sec9 h2{
+    padding: 30px 0;
+    color: #054A85;
+}
+#sec9 p{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}

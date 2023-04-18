@@ -1,0 +1,25 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+#sec13{
+    background-color: #F1F8FF;
+    padding: 50px 0;
+    text-align: center;
+}
+#sec13 h1{
+    padding-bottom: 10px;
+    color: #054A85;
+}
+.s13d {
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 12px 10px 0px 10px;
+    display: flex;
+    justify-content: center;
+    transition: all 0.3s ease-in-out;
+}
+.s13d:hover{color: #054A85;}

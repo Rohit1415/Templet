@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#sec5{
+    text-align: center;
+}
+#sec5 h2{
+    color: #054A85;
+}

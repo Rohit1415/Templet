@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#sec4{
+    margin: 50px 0;
+   height: 60px;
+   /* background-image: linear-gradient(rgba(255,255,255,0.3) , rgba(255,255,255,0.3)); */
+}
+#sec4 img{
+    height: 100%;
+    width: 100%;
+}
+#sec4 img{}
